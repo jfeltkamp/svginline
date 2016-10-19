@@ -26,7 +26,7 @@ You can add a class as base class for further changes in css3.
 
 ```html
 <figure>
-    <img src="/images/logo.svg" alt="" />
+    <img src="/images/logo.svg" alt="" class="svg-icon" />
 </figure>
 ```
 
