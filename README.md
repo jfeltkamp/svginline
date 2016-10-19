@@ -1,5 +1,5 @@
 # svginline
-Loads svg included as src of an img tag an puts the svg-XML to the DOM. This is the base of fixing a lot of frontend issues in IE9, IE10, IE11
+Loads svg included as src of an img tag an puts the svg-XML to the DOM. This is the base of fixing frontend issues with SVGs in IE9, IE10, IE11.
 
 ##
 This jQuery plugin provides a solution for displaying SVG included as source of an <img /> in the document in the Internet Explorer.
