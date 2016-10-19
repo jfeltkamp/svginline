@@ -2,8 +2,8 @@
 Loads svg included as src of an img tag an puts the svg-XML to the DOM. This is the base of fixing frontend issues with SVGs in IE9, IE10, IE11.
 
 ##
-This jQuery plugin provides a solution for displaying SVG included as source of an <img /> in the document in the Internet Explorer.
-It is not possible to style SVGs in Internet Explorer Edge and earlier by css3 as it is in Chrome, FF and other modern Browsers.
+This jQuery plugin provides a solution for displaying **styled** SVG in the Internet Explorer included as source of an img-Tag.
+It is not possible to style SVGs in Internet Explorer Edge and earlier by css3 (with fill, stroke and other properties) as it is in Chrome, FF and other modern Browsers.
 This plugin reads out the source of the image file and writes the svg-xml to the DOM replacing the image tag. So you can style the SVG even in MSIE.
 
 ## Install
