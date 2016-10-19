@@ -26,7 +26,7 @@ You can add a class as base class for further changes in css3.
 
 ```html
 <figure>
-    <img src="/images/logo.svg" alt="" class="svg-icon" />
+    <img src="/images/logo.svg" alt="" class="svg-icon" width="120" height="80"/>
 </figure>
 ```
 
@@ -35,7 +35,7 @@ You can add a class as base class for further changes in css3.
 
 ```html
 <figure>
-  <div id="svg-container-2" class="svg-container">
+  <div id="svg-container-2" class="svg-container" style="width:120px;height:80px;">
     <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
     	 viewBox="0 0 68 68" style="enable-background:new 0 0 68 68;" xml:space="preserve">
     <g>
